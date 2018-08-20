@@ -18,6 +18,6 @@ For example, the top of the table looks like ![alt text](top_of_table.png)
 - **cook_original_data.txt** and **fivethirtyeight_original_data.txt** are my versions of the original data. 
 - **goodbye_stranger.ipynb** contains the parsing + analysis code (that is just the song I was listening to when I wrote it). 
 
-![alt text](pvi_versus_fivethirtyeight_probability.png)
+<img src="pvi_versus_fivethirtyeight_probability.png" width="200">
 
 Please contact emmap1@cs.stanford.edu with any comments, questions, or errors. 
