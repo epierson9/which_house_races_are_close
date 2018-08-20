@@ -12,8 +12,10 @@ I was trying to decide which House races were actually close enough that my time
     - cook_name: Cook's name -- just used this so people can see if something went wrong with the data parsing.
     - cook_pvi_rating: Cook's PVI rating -- negative values indicate Republican is winning.
     - cook_category -- the category Cook puts the race in
+    
+For example, the top of the table looks like ![alt text](top_of_table.png)
 
 - **cook_original_data.txt** and **fivethirtyeight_original_data.txt** are my versions of the original data. 
-- **goodbye_stranger.ipynb** contains the parsing code + some analysis. 
+- **goodbye_stranger.ipynb** contains the parsing + analysis code (that is just the song I was listening to when I wrote it). 
 
 Please contact emmap1@cs.stanford.edu with any comments, questions, or errors. 
