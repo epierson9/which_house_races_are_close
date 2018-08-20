@@ -8,7 +8,7 @@ I was trying to decide which House races were actually close enough that my time
     - district: the name of the district
     - name: 538's name for the incumbent
     - 538_democrat_wins: the percentage chance the Democrat wins, according to the FiveThirtyEight model (0 - 100).
-    - 538_diff_from_even: the absolute difference of 538_democrat_wins and 50. Table is sorted by this column.
+    - 538_diff_from_even: the absolute difference between 538_democrat_wins and 50. Table is sorted by this column.
     - cook_name: Cook's name -- just used this so people can see if something went wrong with the data parsing.
     - cook_pvi_rating: Cook's PVI rating -- negative values indicate Republican is winning.
     - cook_category -- the category Cook puts the race in
