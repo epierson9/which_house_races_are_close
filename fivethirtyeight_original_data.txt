@@ -1,0 +1,435 @@
+AK-1    Don Young   24.31%  75.69%
+AL-1    Bradley Byrne   0.05    99.95
+AL-2    Martha Roby 2.39    97.61
+AL-3    Mike Rogers 0.18    99.82
+AL-4    Robert B. Aderholt  0.00    >99%
+AL-5    Mo Brooks   0.18    99.82
+AL-6    Gary Palmer 0.02    99.98
+AL-7    Terri A. Sewell 100.00  0.00
+AR-1    Rick Crawford   0.16    99.83
+AR-2    French Hill 22.65   77.34
+AR-3    Steve Womack    0.08    99.92
+AR-4    Bruce Westerman 0.13    99.87
+AZ-1    Tom O’Halleran  94.16   5.83
+AZ-2    Open seat   90.01   9.99
+AZ-3    Raul Grijalva   99.97   0.03
+AZ-4    Paul A. Gosar   0.06    99.94
+AZ-5    Andy Biggs  0.20    99.80
+AZ-6    David Schweikert    13.39   86.61
+AZ-7    Ruben Gallego   99.98   0.00
+AZ-8    Debbie Lesko    21.54   78.46
+AZ-9    Open seat   98.82   1.18
+CA-1    Doug LaMalfa    13.94   86.06
+CA-2    Jared Huffman   >99%    0.00
+CA-3    John Garamendi  99.87   0.13
+CA-4    Tom McClintock  12.50   87.50
+CA-5    Mike Thompson   99.95   0.00
+CA-6    Doris O. Matsui 100.00  0.00
+CA-7    Ami Bera    98.13   1.87
+CA-8    Paul Cook   0.00    100.00
+CA-9    Jerry McNerney  99.86   0.14
+CA-10   Jeff Denham 70.77   29.23
+CA-11   Mark DeSaulnier >99%    0.00
+CA-12   Nancy Pelosi    >99%    0.00
+CA-13   Barbara Lee 99.99   0.00
+CA-14   Jackie Speier   >99%    0.00
+CA-15   Eric Swalwell   >99%    0.00
+CA-16   Jim Costa   99.77   0.23
+CA-17   Ro Khanna   >99%    0.00
+CA-18   Anna G. Eshoo   >99%    0.00
+CA-19   Zoe Lofgren >99%    0.00
+CA-20   Jimmy Panetta   99.88   0.00
+CA-21   David Valadao   64.34   35.66
+CA-22   Devin Nunes 2.23    97.77
+CA-23   Kevin McCarthy  0.11    99.89
+CA-24   Salud Carbajal  97.27   2.73
+CA-25   Steve Knight    77.44   22.56
+CA-26   Julia Brownley  99.82   0.18
+CA-27   Judy Chu    100.00  0.00
+CA-28   Adam Schiff >99%    0.00
+CA-29   Tony Cárdenas   >99%    0.00
+CA-30   Brad Sherman    >99%    0.00
+CA-31   Pete Aguilar    99.82   0.18
+CA-32   Grace Napolitano    >99%    0.00
+CA-33   Ted Lieu    >99%    0.00
+CA-34   Jimmy Gomez 99.98   0.00
+CA-35   Norma Torres    >99%    0.00
+CA-36   Raul Ruiz   99.68   0.32
+CA-37   Karen Bass  >99%    0.00
+CA-38   Linda Sánchez   >99%    0.00
+CA-39   Open seat   34.57   65.43
+CA-40   Lucille Roybal-Allard   99.89   0.00
+CA-41   Mark Takano 99.99   0.01
+CA-42   Ken Calvert 2.25    97.75
+CA-43   Maxine Waters   >99%    0.00
+CA-44   Nanette Diaz Barragán   100.00  0.00
+CA-45   Mimi Walters    58.04   41.96
+CA-46   J. Luis Correa  >99%    0.00
+CA-47   Alan Lowenthal  99.97   0.03
+CA-48   Dana Rohrabacher    66.27   33.73
+CA-49   Open seat   74.91   25.09
+CA-50   Duncan D. Hunter    8.17    91.83
+CA-51   Juan Vargas >99%    0.00
+CA-52   Scott Peters    99.80   0.20
+CA-53   Susan Davis 99.97   0.03
+CO-1    Diana DeGette   >99%    0.00
+CO-2    Open seat   99.78   0.22
+CO-3    Scott Tipton    40.54   59.46
+CO-4    Ken Buck    3.63    96.37
+CO-5    Doug Lamborn    2.79    97.21
+CO-6    Mike Coffman    64.57   35.43
+CO-7    Ed Perlmutter   99.69   0.31
+CT-1    John B. Larson  99.97   0.02
+CT-2    Joe Courtney    99.93   0.07
+CT-3    Rosa L. DeLauro 99.98   0.02
+CT-4    Jim Himes   99.84   0.16
+CT-5    Open seat   96.33   3.66
+DE-1    Lisa Blunt Rochester    98.77   1.23
+FL-1    Matt Gaetz  0.01    99.99
+FL-2    Neal Dunn   0.02    99.98
+FL-3    Ted Yoho    1.18    98.82
+FL-4    John Rutherford 0.03    99.97
+FL-5    Al Lawson   99.99   0.01
+FL-6    Open seat   28.17   71.83
+FL-7    Stephanie Murphy    97.43   2.57
+FL-8    Bill Posey  1.95    98.05
+FL-9    Darren Soto 99.86   0.14
+FL-10   Val Demings 100.00  0.00
+FL-11   Daniel Webster  0.07    99.93
+FL-12   Gus M. Bilirakis    1.56    98.43
+FL-13   Charlie Crist   99.60   0.40
+FL-14   Kathy Castor    100.00  0.00
+FL-15   Open seat   27.57   72.43
+FL-16   Vern Buchanan   11.59   88.41
+FL-17   Open seat   0.37    99.63
+FL-18   Brian Mast  7.58    92.42
+FL-19   Francis Rooney  0.64    99.36
+FL-20   Alcee L. Hastings   100.00  0.00
+FL-21   Lois Frankel    100.00  0.00
+FL-22   Ted Deutch  99.88   0.12
+FL-23   Debbie Wasserman Schultz    99.69   0.31
+FL-24   Frederica Wilson    100.00  0.00
+FL-25   Mario Diaz-Balart   28.18   71.82
+FL-26   Carlos Curbelo  37.89   62.11
+FL-27   Open seat   97.11   2.89
+GA-1    Buddy Carter    0.21    99.79
+GA-2    Sanford D. Bishop Jr.   99.89   0.11
+GA-3    A. Drew Ferguson    0.01    99.99
+GA-4    Hank Johnson    >99%    0.00
+GA-5    John Lewis  100.00  0.00
+GA-6    Karen C. Handel 4.62    95.38
+GA-7    Rob Woodall 29.40   70.60
+GA-8    Austin Scott    0.00    100.00
+GA-9    Doug Collins    0.00    >99%
+GA-10   Jody Hice   0.01    99.99
+GA-11   Barry Loudermilk    0.06    99.94
+GA-12   Rick Allen  1.76    98.24
+GA-13   David Scott >99%    0.00
+GA-14   Tom Graves  0.00    >99%
+HI-1    Open seat   >99%    0.00
+HI-2    Tulsi Gabbard   >99%    0.00
+IA-1    Rod Blum    72.87   27.13
+IA-2    David Loebsack  96.99   3.01
+IA-3    David Young 66.97   33.03
+IA-4    Steve King  17.55   82.44
+ID-1    Open seat   0.04    99.96
+ID-2    Mike Simpson    0.31    99.69
+IL-1    Bobby L. Rush   >99%    0.00
+IL-2    Robin Kelly >99%    0.00
+IL-3    Daniel Lipinski 99.98   0.02
+IL-4    Open seat   >99%    0.00
+IL-5    Mike Quigley    >99%    0.00
+IL-6    Peter J. Roskam 25.34   74.66
+IL-7    Danny K. Davis  >99%    0.00
+IL-8    Raja Krishnamoorthi 99.89   0.11
+IL-9    Jan Schakowsky  >99%    0.00
+IL-10   Bradley Schneider   99.91   0.09
+IL-11   Bill Foster 99.94   0.06
+IL-12   Mike Bost   38.37   61.63
+IL-13   Rodney Davis    32.50   67.50
+IL-14   Randy Hultgren  35.98   64.02
+IL-15   John Shimkus    0.03    99.97
+IL-16   Adam Kinzinger  2.23    97.77
+IL-17   Cheri Bustos    99.86   0.14
+IL-18   Darin LaHood    0.02    99.98
+IN-1    Peter Visclosky 99.98   0.02
+IN-2    Jackie Walorski 7.46    92.54
+IN-3    Jim Banks   0.26    99.74
+IN-4    Open seat   0.72    99.28
+IN-5    Susan W. Brooks 0.93    99.07
+IN-6    Open seat   0.11    99.89
+IN-7    André Carson    99.99   0.01
+IN-8    Larry Bucshon   0.77    99.23
+IN-9    Trey Hollingsworth  23.53   76.47
+KS-1    Roger Marshall  0.00    >99%
+KS-2    Open seat   39.00   60.99
+KS-3    Kevin Yoder 21.21   78.78
+KS-4    Ron Estes   12.73   87.27
+KY-1    James Comer 0.01    99.99
+KY-2    Brett S. Guthrie    0.12    99.88
+KY-3    John A. Yarmuth 99.35   0.64
+KY-4    Thomas Massie   0.06    99.94
+KY-5    Harold Rogers   0.00    >99%
+KY-6    Andy Barr   47.30   52.70
+LA-1    Steve Scalise   0.00    >99%
+LA-2    Cedric Richmond 100.00  0.00
+LA-3    Clay Higgins    0.09    99.91
+LA-4    Mike Johnson    0.20    99.80
+LA-5    Ralph Abraham   0.07    99.93
+LA-6    Garrett Graves  0.00    >99%
+MA-1    Richard E. Neal 100.00  0.00
+MA-2    James McGovern  99.98   0.02
+MA-3    Open seat   99.90   0.10
+MA-4    Joseph P. Kennedy III   100.00  0.00
+MA-5    Katherine Clark >99%    0.00
+MA-6    Seth Moulton    99.97   0.03
+MA-7    Michael E. Capuano  100.00  0.00
+MA-8    Stephen F. Lynch    100.00  0.00
+MA-9    William Keating 98.78   1.22
+MD-1    Andy Harris 1.10    98.90
+MD-2    C. A. Dutch Ruppersberger   99.98   0.02
+MD-3    John P. Sarbanes    99.99   0.01
+MD-4    Anthony Brown   >99%    0.00
+MD-5    Steny H. Hoyer  99.99   0.01
+MD-6    Open seat   98.83   1.17
+MD-7    Elijah Cummings >99%    0.00
+MD-8    Jamie Raskin    >99%    0.00
+ME-1    Chellie Pingree 99.44   0.56
+ME-2    Bruce Poliquin  40.79   59.21
+MI-1    Jack Bergman    18.99   81.01
+MI-2    Bill Huizenga   5.88    94.12
+MI-3    Justin Amash    1.92    98.08
+MI-4    John Moolenaar  0.44    99.56
+MI-5    Daniel Kildee   99.79   0.21
+MI-6    Fred Upton  14.96   85.04
+MI-7    Tim Walberg 38.06   61.94
+MI-8    Mike Bishop 42.62   57.38
+MI-9    Open seat   98.89   1.11
+MI-10   Paul Mitchell   0.24    99.76
+MI-11   Open seat   65.19   34.81
+MI-12   Debbie Dingell  99.99   0.01
+MI-13   Open seat   100.00  0.00
+MI-14   Brenda Lawrence >99%    0.00
+MN-1    Open seat   45.34   54.66
+MN-2    Jason Lewis 76.13   23.87
+MN-3    Erik Paulsen    65.79   34.21
+MN-4    Betty McCollum  99.98   0.02
+MN-5    Open seat   >99%    0.00
+MN-6    Tom Emmer   0.19    99.81
+MN-7    Collin C. Peterson  85.48   14.52
+MN-8    Open seat   35.44   64.56
+MO-1    William “Lacy” Clay Jr. >99%    0.00
+MO-2    Ann Wagner  10.17   89.83
+MO-3    Blaine Luetkemeyer  0.02    99.98
+MO-4    Vicky Hartzler  0.08    99.92
+MO-5    Emanuel Cleaver 99.78   0.22
+MO-6    Sam Graves  0.06    99.94
+MO-7    Billy Long  0.01    99.99
+MO-8    Jason Smith 0.01    99.99
+MS-1    Trent Kelly 0.07    99.93
+MS-2    Bennie G. Thompson  99.53   0.00
+MS-3    Open seat   0.27    99.73
+MS-4    Steven Palazzo  0.45    99.55
+MT-1    Greg Gianforte  12.18   87.81
+NC-1    G.K. Butterfield    >99%    0.00
+NC-2    George Holding  10.74   89.25
+NC-3    Walter B. Jones 0.00    100.00
+NC-4    David Price >99%    0.00
+NC-5    Virginia Foxx   5.19    94.81
+NC-6    Mark Walker 21.51   78.49
+NC-7    David Rouzer    7.18    92.82
+NC-8    Richard Hudson  14.12   85.88
+NC-9    Open seat   50.35   49.64
+NC-10   Patrick T. McHenry  0.30    99.70
+NC-11   Mark Meadows    0.34    99.66
+NC-12   Alma Adams  >99%    0.00
+NC-13   Ted Budd    37.21   62.79
+ND-1    Open seat   1.34    98.66
+NE-1    Jeff Fortenberry    0.15    99.85
+NE-2    Don Bacon   58.20   41.80
+NE-3    Adrian Smith    0.00    >99%
+NH-1    Open seat   75.26   24.74
+NH-2    Ann Kuster  98.55   1.45
+NJ-1    Donald Norcross 99.98   0.02
+NJ-2    Open seat   87.08   12.92
+NJ-3    Tom MacArthur   43.91   56.09
+NJ-4    Chris Smith 6.66    93.34
+NJ-5    Josh Gottheimer 99.02   0.98
+NJ-6    Frank Pallone Jr.   99.98   0.02
+NJ-7    Leonard Lance   63.22   36.78
+NJ-8    Albio Sires >99%    0.00
+NJ-9    Bill Pascrell Jr.   >99%    0.00
+NJ-10   Donald Payne Jr.    >99%    0.00
+NJ-11   Open seat   72.34   27.66
+NJ-12   Bonnie Watson Coleman   >99%    0.00
+NM-1    Open seat   97.92   2.07
+NM-2    Open seat   24.28   75.72
+NM-3    Ben R. Lujan    99.98   0.01
+NV-1    Dina Titus  99.98   0.02
+NV-2    Mark Amodei 1.31    98.69
+NV-3    Open seat   66.86   33.14
+NV-4    Open seat   78.55   21.45
+NY-1    Lee Zeldin  10.95   89.05
+NY-2    Pete King   18.79   81.21
+NY-3    Thomas Suozzi   99.14   0.86
+NY-4    Kathleen Rice   99.87   0.13
+NY-5    Gregory W. Meeks    100.00  0.00
+NY-6    Grace Meng  99.97   0.00
+NY-7    Nydia M. Velázquez  99.99   0.00
+NY-8    Hakeem Jeffries 100.00  0.00
+NY-9    Yvette D. Clarke    >99%    0.00
+NY-10   Jerrold Nadler  >99%    0.00
+NY-11   Daniel Donovan  24.32   75.68
+NY-12   Carolyn Maloney >99%    0.00
+NY-13   Adriano Espaillat   >99%    0.00
+NY-14   Joseph Crowley  >99%    0.00
+NY-15   José E. Serrano >99%    0.00
+NY-16   Eliot Engel 99.98   0.00
+NY-17   Nita Lowey  99.95   0.00
+NY-18   Sean Patrick Maloney    98.26   1.74
+NY-19   John Faso   52.13   47.87
+NY-20   Paul D. Tonko   99.98   0.02
+NY-21   Elise Stefanik  7.38    92.62
+NY-22   Claudia Tenney  71.17   28.83
+NY-23   Tom Reed    4.86    95.14
+NY-24   John Katko  36.66   63.34
+NY-25   Open seat   99.72   0.28
+NY-26   Brian Higgins   >99%    0.00
+NY-27   Open seat   24.50   75.49
+OH-1    Steve Chabot    58.23   41.77
+OH-2    Brad Wenstrup   5.50    94.50
+OH-3    Joyce Beatty    >99%    0.00
+OH-4    Jim Jordan  4.48    95.52
+OH-5    Robert E. Latta 0.31    99.68
+OH-6    Bill Johnson    0.04    99.96
+OH-7    Bob Gibbs   11.38   88.62
+OH-8    Warren Davidson 0.06    99.94
+OH-9    Marcy Kaptur    99.97   0.02
+OH-10   Michael Turner  6.42    93.58
+OH-11   Marcia L. Fudge >99%    0.00
+OH-12   Troy Balderson  48.95   51.05
+OH-13   Tim Ryan    99.95   0.05
+OH-14   David Joyce 18.93   81.07
+OH-15   Steve Stivers   2.63    97.37
+OH-16   Open seat   4.99    95.01
+OK-1    Open seat   0.75    99.25
+OK-2    Markwayne Mullin    0.01    99.99
+OK-3    Frank Lucas 0.00    >99%
+OK-4    Tom Cole    0.02    99.98
+OK-5    Steve Russell   23.67   76.33
+OR-1    Suzanne Bonamici    99.96   0.04
+OR-2    Greg Walden 0.26    99.73
+OR-3    Earl Blumenauer 100.00  0.00
+OR-4    Peter DeFazio   99.17   0.83
+OR-5    Kurt Schrader   99.61   0.39
+PA-1    Brian Fitzpatrick   21.52   78.48
+PA-2    Brendan Boyle   >99%    0.00
+PA-3    Dwight Evans    >99%    0.00
+PA-4    Open seat   99.63   0.37
+PA-5    Open seat   99.98   0.02
+PA-6    Open seat   97.60   2.40
+PA-7    Open seat   86.77   13.22
+PA-8    Matt Cartwright 93.52   6.48
+PA-9    Open seat   0.90    99.10
+PA-10   Scott Perry 14.85   85.15
+PA-11   Lloyd Smucker   27.28   72.72
+PA-12   Tom Marino  0.18    99.82
+PA-13   Open seat   0.01    99.99
+PA-14   Open seat   1.23    98.77
+PA-15   Glenn W. Thompson   0.08    99.92
+PA-16   Mike Kelly  4.76    95.24
+PA-17   Conor Lamb  92.96   7.04
+PA-18   Mike Doyle  100.00  0.00
+RI-1    David Cicilline 99.98   0.02
+RI-2    Jim Langevin    99.97   0.03
+SC-1    Open seat   15.00   85.00
+SC-2    Joe Wilson  0.85    99.15
+SC-3    Jeff Duncan 0.15    99.85
+SC-4    Open seat   0.05    99.95
+SC-5    Ralph Norman    12.36   87.64
+SC-6    James E. Clyburn    >99%    0.00
+SC-7    Tom Rice    1.06    98.94
+SD-1    Open seat   1.44    98.56
+TN-1    Phil Roe    0.00    >99%
+TN-2    Open seat   0.03    99.97
+TN-3    Chuck Fleischmann   0.13    99.87
+TN-4    Scott DesJarlais    0.76    99.24
+TN-5    Jim Cooper  99.97   0.03
+TN-6    Open seat   0.00    >99%
+TN-7    Open seat   0.03    99.97
+TN-8    David Kustoff   0.02    99.98
+TN-9    Steve Cohen >99%    0.00
+TX-1    Louie Gohmert   0.00    >99%
+TX-2    Open seat   7.84    92.16
+TX-3    Open seat   0.77    99.22
+TX-4    John Ratcliffe  0.00    >99%
+TX-5    Open seat   0.08    99.92
+TX-6    Open seat   6.64    93.36
+TX-7    John Culberson  49.32   50.68
+TX-8    Kevin Brady 0.00    >99%
+TX-9    Al Green    100.00  0.00
+TX-10   Michael T. McCaul   2.62    97.38
+TX-11   K. Michael Conaway  0.00    >99%
+TX-12   Kay Granger 0.01    99.99
+TX-13   Mac Thornberry  0.00    >99%
+TX-14   Randy Weber 1.75    98.25
+TX-15   Vicente Gonzalez    99.90   0.10
+TX-16   Open seat   99.98   0.02
+TX-17   Bill Flores 0.52    99.48
+TX-18   Sheila Jackson Lee  >99%    0.00
+TX-19   Jodey Arrington 0.00    >99%
+TX-20   Joaquin Castro  99.94   0.00
+TX-21   Open seat   17.81   82.17
+TX-22   Pete Olson  14.17   85.83
+TX-23   Will Hurd   72.36   27.64
+TX-24   Kenny Marchant  4.37    95.62
+TX-25   Roger Williams  7.09    92.91
+TX-26   Michael Burgess 0.12    99.88
+TX-27   Michael Cloud   0.48    99.52
+TX-28   Henry Cuellar   99.95   0.00
+TX-29   Open seat   99.99   0.01
+TX-30   Eddie Bernice Johnson   99.99   0.00
+TX-31   John Carter 20.11   79.88
+TX-32   Pete Sessions   11.74   88.25
+TX-33   Marc Veasey 99.99   0.01
+TX-34   Filemon Vela    99.95   0.05
+TX-35   Lloyd Doggett   99.99   0.01
+TX-36   Brian Babin 0.02    99.98
+UT-1    Rob Bishop  0.03    99.97
+UT-2    Chris Stewart   2.53    97.43
+UT-3    John R. Curtis  0.03    99.97
+UT-4    Mia Love    19.01   80.99
+VA-1    Robert J. Wittman   1.50    98.50
+VA-2    Scott Taylor    8.14    91.86
+VA-3    Robert C. Scott 100.00  0.00
+VA-4    A. Donald McEachin  99.86   0.14
+VA-5    Open seat   48.78   51.22
+VA-6    Open seat   0.34    99.66
+VA-7    Dave Brat   32.08   67.92
+VA-8    Don Beyer   >99%    0.00
+VA-9    Morgan Griffith 0.16    99.84
+VA-10   Barbara Comstock    74.71   25.29
+VA-11   Gerald E. Connolly  99.99   0.01
+VT-1    Peter Welch 99.98   0.02
+WA-1    Suzan DelBene   99.87   0.13
+WA-2    Rick Larsen 99.88   0.00
+WA-3    Jaime Herrera Beutler   10.00   90.00
+WA-4    Dan Newhouse    0.80    99.20
+WA-5    Cathy McMorris Rodgers  28.14   71.86
+WA-6    Derek Kilmer    99.93   0.07
+WA-7    Pramila Jayapal >99%    0.00
+WA-8    Open seat   44.36   55.64
+WA-9    Adam Smith  100.00  0.00
+WA-10   Denny Heck  99.90   0.10
+WI-1    Open seat   20.76   79.24
+WI-2    Mark Pocan  100.00  0.00
+WI-3    Ron Kind    99.27   0.73
+WI-4    Gwen Moore  >99%    0.00
+WI-5    F. James Sensenbrenner  2.01    97.99
+WI-6    Glenn Grothman  29.23   70.77
+WI-7    Sean P. Duffy   0.89    99.11
+WI-8    Mike Gallagher  0.76    99.24
+WV-1    David McKinley  0.30    99.70
+WV-2    Alex Mooney 3.65    96.35
+WV-3    Open seat   6.03    93.97
+WY-1    Liz Cheney  0.02    99.98
