@@ -1,0 +1,99 @@
+---
+title: "Pull fundraising data"
+output: pdf_document
+---
+
+# Pull the data from 2018
+
+The data are available here: https://www.dailykos.com/stories/2018/7/17/1781034/-Daily-Kos-Elections-2Q-2018-House-fundraising-reports-roundup
+
+### Load libraries
+
+```{r}
+library(googlesheets)
+library(dplyr)
+library(devtools)
+library(stringr)
+library(purrr)
+library(tidyr)
+library(readr)
+```
+
+
+### Pull data
+
+```{r}
+fundraise_2018_url = gs_url("https://docs.google.com/spreadsheets/d/1zp3vv0pHUVeA_GJ9F9tpsa01dwu1h7HJiU809uZ683E/pubhtml/sheet?headers=false&chrome=false&gid=1620675661")
+fundraise_2018 = gs_read(fundraise_2018_url,col_names=TRUE)
+glimpse(fundraise_2018)
+```
+
+
+### Data cleaning
+
+Change names
+
+```{r}
+colnames(fundraise_2018) = c("cd","name",	"party", "q2_raised",
+                             "self_fund", "self_loan", "spent",
+                             "raised_ctd","coh","self_fund_ctd","transfer",
+                             "candidate_id","committee_id")
+fundraise_2018 = fundraise_2018[-1,]
+```
+
+Make dollar values numeric:
+
+```{r}
+
+dol_numeric = function(x){
+  return(as.numeric(str_replace_all(x,"[,\\$]","")))
+}
+fundraise_2018 = fundraise_2018 %>%
+  mutate(q2_raised  = dol_numeric(q2_raised)) %>%
+  mutate(self_fund  = dol_numeric(self_fund)) %>%
+  mutate(self_loan  = dol_numeric(self_loan)) %>%
+  mutate(spent  = dol_numeric(spent)) %>%
+  mutate(raised_ctd  = dol_numeric(raised_ctd)) %>%
+  mutate(coh  = dol_numeric(coh)) %>%
+  mutate(self_fund_ctd  = dol_numeric(self_fund_ctd)) %>%
+  mutate(transfer  = dol_numeric(transfer))
+```
+
+Make candidate information a little easier
+
+```{r}
+fundraise_2018 = fundraise_2018 %>% 
+  mutate(incumbant = str_detect(fundraise_2018$party,"inc")) %>%
+  mutate(party_ind = str_detect(party,"I")) %>%
+  mutate(party_dem = str_detect(party,"D")) %>%
+  mutate(party_rep = str_detect(party,"R"))
+```
+
+Finally separate state/district
+
+```{r}
+fundraise_2018 = fundraise_2018 %>%
+  separate(cd,into=c("state","district"),sep="-")
+```
+
+
+### Write data 
+
+```{r}
+write_csv(fundraise_2018,"fundraise_2018_dailykos.csv")
+```
+
+
+
+
+
+
+# Session Info
+
+Here is some information about the document so we can debug. 
+```{r}
+Sys.time()
+session_info()
+```
+
+

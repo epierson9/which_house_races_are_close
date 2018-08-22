@@ -23,3 +23,24 @@ Here's a scatterplot of Cook's PVI's versus FiveThirtyEight's probabilities.
 <img src="pvi_versus_fivethirtyeight_probability.png" width="400">
 
 Please contact emmap1@cs.stanford.edu with any comments, questions, or errors. 
+
+
+### These files created by Jeff Leek
+
+Please contact jtleek@gmail.com with comments/questions or errors
+
+- **fundraise_2018_dailykos.csv** - fundraising data for close races from [dailykos](https://www.dailykos.com/stories/2018/7/17/1781034/-Daily-Kos-Elections-2Q-2018-House-fundraising-reports-roundup) with columns
+    - state: state of the raise
+    - district: district within that state
+    - name: name of the candidate
+    - party: original party information from DK - this is tidied in later columns
+    - q2_raised through transfer: the amounts raised or on hand (I think ) for q2
+    - committee_id/candidate_id: I think these are DK ids maybe? 
+    - incumbant - inferred incumbant status from the party variable
+    - party_ind - indicator of independent inferred from the party variable
+    - party_dem - indicator of democrat inferred from the party variable
+    - party_rep - indicator of republican inferred from the party variable
+- **pull_fundraising.Rmd** - R markdown file showing the data pull
+- **pull_fundraising.pdf** - compiled version of the data pulling code with session info
+
+
