@@ -2,6 +2,8 @@
 
 I was trying to decide which House races were actually close enough that my time or money could make a difference. So I parsed [FiveThirtyEight's assessments](https://fivethirtyeight.com/features/the-big-picture-in-the-race-for-the-house/), parsed [Cook's assessments](https://www.cookpolitical.com/ratings/house-race-ratings), and wrote some code to join the two datasets together. Jeff Leek also added information about the fundraising data in close races ([source: Q2 Fundraising Data](https://www.dailykos.com/stories/2018/7/17/1781034/-Daily-Kos-Elections-2Q-2018-House-fundraising-reports-roundup)), which is useful if you want to know who actually needs money and who has a lot already. (To my knowledge, this combined data doesn't exist in easily sortable/parseable form). This is current as of 8/17/18. Click on [combined_data.csv](combined_data.csv) to see the results + download them. 
 
+**Important update:** Wikipedia, bless them, implemented a version of this idea which will likely be better and more current! See their table [here](https://en.wikipedia.org/wiki/United_States_House_of_Representatives_elections,_2018#Latest_published_ratings_for_competitive_seats). 
+
 ### Files
 
 - **combined_data.csv** is the combined data file. It is sorted so the races FiveThirtyEight predicts will be closest are at the top. You can load it into Python/R/Excel and parse it however you choose. Column names: 
